@@ -10,6 +10,8 @@ import (
 )
 
 func main() {
+	// Initialize Journal struct.
+	// Read the note in domain/journal.go
 	j := domain.Journal{}
 	j.AddEntry("Journal A")
 	j.AddEntry("Journal B")

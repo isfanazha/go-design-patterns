@@ -6,8 +6,17 @@ import (
 	"strings"
 )
 
+// Journal has the following functions:
+// 1. AddEntry: Add an entry in journal data
+// 2. RemoveEntry: Remove an entry in journal data
+// 3. String: Joining entries data
+// 4. SaveToFile: Save journal data into a file (Need to move to different type/package)
+// 5. LoadFile: Load journal data from a file (Need to move to different type/package)
+
 type Journal struct {
-	Entries    []string
+	// Journal entries
+	Entries []string
+	// Count entry index
 	EntryCount int
 }
 

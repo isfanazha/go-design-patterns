@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/isfanazha/go-design-patterns/solid/depedencyinversion/domain"
-	"github.com/isfanazha/go-design-patterns/solid/depedencyinversion/repository"
-	"github.com/isfanazha/go-design-patterns/solid/depedencyinversion/usecase"
+	"github.com/isfanazha/go-design-patterns/solid-principles/depedency-inversion/domain"
+	"github.com/isfanazha/go-design-patterns/solid-principles/depedency-inversion/repository"
+	"github.com/isfanazha/go-design-patterns/solid-principles/depedency-inversion/usecase"
 )
 
 func main() {

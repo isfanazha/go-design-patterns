@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/isfanazha/go-design-patterns/solid/interfacesegregation/domain"
+	"github.com/isfanazha/go-design-patterns/solid-principles/interface-segregation/domain"
 )
 
 func main() {

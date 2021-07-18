@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/isfanazha/go-design-patterns/solid/openclosed/domain"
-	"github.com/isfanazha/go-design-patterns/solid/openclosed/usecase"
+	"github.com/isfanazha/go-design-patterns/solid-principles/open-closed/domain"
+	"github.com/isfanazha/go-design-patterns/solid-principles/open-closed/usecase"
 )
 
 func main() {

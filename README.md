@@ -1,2 +1,2 @@
 # Go Design Patterns
-Design patterns with Go
+Design patterns with Go.

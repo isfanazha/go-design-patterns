@@ -3,7 +3,7 @@ package usecase
 import (
 	"fmt"
 
-	"github.com/isfanazha/go-design-patterns/solid/depedencyinversion/repository"
+	"github.com/isfanazha/go-design-patterns/solid-principles/depedency-inversion/repository"
 )
 
 // Research is HLM (High Level Module)

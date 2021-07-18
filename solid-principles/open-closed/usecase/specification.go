@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/isfanazha/go-design-patterns/solid/openclosed/domain"
+import "github.com/isfanazha/go-design-patterns/solid-principles/open-closed/domain"
 
 // Specification interface follows the open closed principles,
 // which opens for extension (grab an interface and implement the method somewhere in your code)

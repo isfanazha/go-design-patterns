@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/isfanazha/go-design-patterns/solid/singleresponsibility/domain"
-	"github.com/isfanazha/go-design-patterns/solid/singleresponsibility/persistance"
-	"github.com/isfanazha/go-design-patterns/solid/singleresponsibility/util"
+	"github.com/isfanazha/go-design-patterns/solid-principles/single-responsibility/domain"
+	"github.com/isfanazha/go-design-patterns/solid-principles/single-responsibility/persistance"
+	"github.com/isfanazha/go-design-patterns/solid-principles/single-responsibility/util"
 )
 
 func main() {

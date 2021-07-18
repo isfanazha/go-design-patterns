@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/isfanazha/go-design-patterns/solid/singleresponsibility/domain"
+	"github.com/isfanazha/go-design-patterns/solid-principles/single-responsibility/domain"
 )
 
 var lineSeparator = "\n"

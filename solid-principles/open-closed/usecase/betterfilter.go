@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/isfanazha/go-design-patterns/solid/openclosed/domain"
+import "github.com/isfanazha/go-design-patterns/solid-principles/open-closed/domain"
 
 // In BetterFilter we use Specification interface as parameter which is more flexible,
 // So the implementation depends on the type (ColorSpecification, SizeSpecification, AndSpecification).
